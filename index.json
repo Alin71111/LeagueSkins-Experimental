@@ -1,5 +1,5 @@
 {
-  "patch": "16.22",
+  "patch": "16.23",
   "champions": {
     "Aatrox": {
       "skins": {
@@ -245,8 +245,8 @@
         "71": "Prestige Coven Akali",
         "82": "Empyrean Akali",
         "92": "Spirit Blossom Akali",
-        "103": "True Damage Know My Name Akali",
-        "102": "K/DA FIRESTARTER Ignition Akali"
+        "102": "K/DA FIRESTARTER Ignition Akali",
+        "103": "True Damage Know My Name Akali"
       },
       "chromas": {
         "7": {
@@ -7494,7 +7494,8 @@
         "22": "Bewitching Neeko",
         "31": "Street Demons Neeko",
         "40": "Cosplayer Neeko",
-        "49": "Beeko"
+        "49": "Beeko",
+        "50": "Cafe Cuties Neeko"
       },
       "chromas": {
         "1": {
@@ -7546,6 +7547,16 @@
           "46": "Amethyst",
           "47": "Obsidian",
           "48": "Pearl"
+        },
+        "50": {
+          "51": "Ruby",
+          "52": "Aquamarine",
+          "53": "Obsidian",
+          "54": "Pearl",
+          "55": "Rose Quartz",
+          "56": "Catseye",
+          "57": "Jasper",
+          "58": "Peridot"
         }
       },
       "forms": {}
@@ -10027,7 +10038,8 @@
         "46": "Prestige Immortal Journey Sona",
         "56": "Victorious Sona",
         "66": "Spirit Blossom Springs Sona",
-        "75": "Prestige Requiem Sona"
+        "75": "Prestige Requiem Sona",
+        "77": "DJ Sona Ultimate Remix"
       },
       "chromas": {
         "4": {
@@ -13193,7 +13205,8 @@
         "20": "EDG Zoe",
         "22": "Winterblessed Zoe",
         "33": "Dark Star Zoe",
-        "43": "Prestige Eternal Aspect Zoe"
+        "43": "Prestige Eternal Aspect Zoe",
+        "45": "Cafe Cuties Zoe"
       },
       "chromas": {
         "2": {
@@ -13242,6 +13255,16 @@
         },
         "43": {
           "44": "Vivid"
+        },
+        "45": {
+          "46": "Ruby",
+          "47": "Catseye",
+          "48": "Emerald",
+          "49": "Amethyst",
+          "50": "Sapphire",
+          "51": "Rose Quartz",
+          "52": "Pearl",
+          "53": "Obsidian"
         }
       },
       "forms": {}
