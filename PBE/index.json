@@ -79,7 +79,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 16,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Soraka/Skins/Skin72/ChromaPreview.Chroma_Soraka_Poetry.png"
     },
     {
       "id": 39073,
@@ -95,7 +96,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 39,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Irelia/Skins/Skin73/ChromaPreview.Chroma_Irelia_Poetry.png"
     },
     {
       "id": 40074,
@@ -111,7 +113,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 40,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Janna/Skins/Skin74/ChromaPreview.Chroma_Janna_Poetry.png"
     },
     {
       "id": 83060,
@@ -127,7 +130,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 83,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin60/ChromaPreview.Chroma_Yorick_Santa.png"
     },
     {
       "id": 83061,
@@ -143,7 +147,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 83,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin61/ChromaPreview.Chroma_Yorick_Santa.png"
     },
     {
       "id": 83062,
@@ -159,7 +164,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 83,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin62/ChromaPreview.Chroma_Yorick_Santa.png"
     },
     {
       "id": 83063,
@@ -175,7 +181,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 83,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin63/ChromaPreview.Chroma_Yorick_Santa.png"
     },
     {
       "id": 83064,
@@ -191,7 +198,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 83,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin64/ChromaPreview.Chroma_Yorick_Santa.png"
     },
     {
       "id": 83065,
@@ -207,7 +215,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 83,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin65/ChromaPreview.Chroma_Yorick_Santa.png"
     },
     {
       "id": 83066,
@@ -223,7 +232,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 83,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin66/ChromaPreview.Chroma_Yorick_Santa.png"
     },
     {
       "id": 83067,
@@ -239,7 +249,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 83,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Yorick/Skins/Skin67/ChromaPreview.Chroma_Yorick_Santa.png"
     },
     {
       "id": 92074,
@@ -255,7 +266,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 92,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin74/ChromaPreview.Chroma_Riven_Victorious.png"
     },
     {
       "id": 92075,
@@ -271,7 +283,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 92,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin75/ChromaPreview.Chroma_Riven_Victorious.png"
     },
     {
       "id": 92076,
@@ -287,7 +300,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 92,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin76/ChromaPreview.Chroma_Riven_Victorious.png"
     },
     {
       "id": 92077,
@@ -303,7 +317,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 92,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin77/ChromaPreview.Chroma_Riven_Victorious.png"
     },
     {
       "id": 92078,
@@ -319,7 +334,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 92,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin78/ChromaPreview.Chroma_Riven_Victorious.png"
     },
     {
       "id": 92079,
@@ -335,7 +351,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 92,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin79/ChromaPreview.Chroma_Riven_Victorious.png"
     },
     {
       "id": 92080,
@@ -351,7 +368,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 92,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin80/ChromaPreview.Chroma_Riven_Victorious.png"
     },
     {
       "id": 92081,
@@ -367,7 +385,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 92,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin81/ChromaPreview.Chroma_Riven_Victorious.png"
     },
     {
       "id": 92082,
@@ -383,7 +402,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 92,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Riven/Skins/Skin82/ChromaPreview.Chroma_Riven_Victorious.png"
     },
     {
       "id": 106039,
@@ -399,7 +419,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 106,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Volibear/Skins/Skin39/ChromaPreview.Chroma_Volibear_Polarbear.png"
     },
     {
       "id": 106040,
@@ -415,7 +436,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 106,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Volibear/Skins/Skin40/ChromaPreview.Chroma_Volibear_Polarbear.png"
     },
     {
       "id": 106041,
@@ -431,7 +453,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 106,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Volibear/Skins/Skin41/ChromaPreview.Chroma_Volibear_Polarbear.png"
     },
     {
       "id": 106042,
@@ -447,7 +470,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 106,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Volibear/Skins/Skin42/ChromaPreview.Chroma_Volibear_Polarbear.png"
     },
     {
       "id": 106043,
@@ -463,7 +487,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 106,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Volibear/Skins/Skin43/ChromaPreview.Chroma_Volibear_Polarbear.png"
     },
     {
       "id": 106044,
@@ -479,7 +504,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 106,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Volibear/Skins/Skin44/ChromaPreview.Chroma_Volibear_Polarbear.png"
     },
     {
       "id": 106045,
@@ -495,7 +521,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 106,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Volibear/Skins/Skin45/ChromaPreview.Chroma_Volibear_Polarbear.png"
     },
     {
       "id": 106046,
@@ -511,7 +538,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 106,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Volibear/Skins/Skin46/ChromaPreview.Chroma_Volibear_Polarbear.png"
     },
     {
       "id": 114109,
@@ -527,7 +555,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 114,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Fiora/Skins/Skin109/ChromaPreview.Chroma_Fiora_Poetry.png"
     },
     {
       "id": 267070,
@@ -543,7 +572,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 267,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin70/ChromaPreview.Chroma_Nami_Winter.png"
     },
     {
       "id": 267071,
@@ -559,7 +589,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 267,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin71/ChromaPreview.Chroma_Nami_Winter.png"
     },
     {
       "id": 267072,
@@ -575,7 +606,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 267,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin72/ChromaPreview.Chroma_Nami_Winter.png"
     },
     {
       "id": 267073,
@@ -591,7 +623,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 267,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin73/ChromaPreview.Chroma_Nami_Winter.png"
     },
     {
       "id": 267074,
@@ -607,7 +640,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 267,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin74/ChromaPreview.Chroma_Nami_Winter.png"
     },
     {
       "id": 267075,
@@ -623,7 +657,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 267,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin75/ChromaPreview.Chroma_Nami_Winter.png"
     },
     {
       "id": 267076,
@@ -639,7 +674,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 267,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin76/ChromaPreview.Chroma_Nami_Winter.png"
     },
     {
       "id": 267077,
@@ -655,7 +691,8 @@
       "runtimeVerified": false,
       "targetSkinId": 0,
       "championId": 267,
-      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest"
+      "sourceManifest": "https://lol.secure.dyn.riotcdn.net/channels/public/releases/6C0C7D39E70ECC2F.manifest",
+      "previewPath": "/lol-game-data/assets/ASSETS/Characters/Nami/Skins/Skin77/ChromaPreview.Chroma_Nami_Winter.png"
     }
   ],
   "updatedAt": "2026-11-18",
